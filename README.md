@@ -16,9 +16,7 @@ This project demonstrates applied credit risk analytics by analyzing loan and bo
 - Professional Reporting – consulting-style report and GitHub portfolio showcase
 
 4. Project Structure
-/credit-risk-sql
 ├── sql/          # All SQL scripts
-├── results/      # Visualizations and tables
 ├── report.pdf    # Consulting-style report
 
 5. Key Insights
