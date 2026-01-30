@@ -1,3 +1,10 @@
+-- WELCOME TO MY SLQ CREDIT RISK ANALYSIS PROJECT
+-- What's this project about? 
+-- This project is a Credit Risk Analysis using SQL, where I analyzed loan and borrower data to identify factors driving defaults. 
+-- Starting from a Kaggle dataset of ~8,000 loans (filtered to 5,083 after cleaning), I built an end-to-end workflow including risk scoring, segmentation into Low/Medium/High-risk bands, and portfolio trend analysis. 
+-- The project highlights key risk drivers like Credit Score, Debt-to-Income ratio (DTI), and Credit Utilization, producing actionable insights and professional deliverables for portfolio management and credit decision-making.
+
+-- DAY 1 & 2 : Data import 
 -- Step 1 : Create database
 CREATE DATABASE credit_risk_db;
 USE credit_risk_db;
