@@ -16,15 +16,12 @@ This project demonstrates applied credit risk analytics by analyzing loan and bo
 - Professional Reporting – consulting-style report and GitHub portfolio showcase
 
 4. Project Structure
-
-/credit-risk-sql-pwc
+/credit-risk-sql
 ├── sql/          # All SQL scripts
 ├── results/      # Visualizations and tables
 ├── report.pdf    # Consulting-style report
-├── data/         # (Optional) Sample dataset
-└── README.md     # Project overview
 
-6. Key Insights
+5. Key Insights
 - Credit Score, DTI, and Credit Utilization are top drivers of loan default.
 - Portfolio is concentrated in Medium & High-risk loans, requiring focused monitoring.
 - Cumulative default trends highlight Very High / High-risk loans as priority for intervention.
